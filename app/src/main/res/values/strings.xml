@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">Aventon</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="driver_button">Driver</string>
+    <string name="passenger_button">Passenger</string>
     <string name="action_settings">Settings</string>
 
 </resources>

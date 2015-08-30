@@ -8,7 +8,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Driver"
+        android:text="@string/driver_button"
         android:id="@+id/driverButton"
         android:layout_marginTop="56dp"
         android:layout_alignStart="@+id/passengerButton"
@@ -17,7 +17,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Passenger"
+        android:text="@string/passenger_button"
         android:id="@+id/passengerButton"
         android:layout_marginTop="55dp"
         android:layout_below="@+id/driverButton"
